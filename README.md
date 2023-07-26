@@ -11,12 +11,15 @@
   + [Courses](#courses)
   + [Blogs](#blogs)
 ## System Design Fundamentals - Start Here
+Предложенные 3 репозитория покроют 80% теории которая может пригодится 
 - [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 ](https://github.com/donnemartin/system-design-primer)
 - [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
-- [🥇 Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
+- [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
+- [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 ## Interview
 ### Cheatsheets
+Обязательно распечатать и держать перед собой на интервью 
 1. [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 2. [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 3. [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
