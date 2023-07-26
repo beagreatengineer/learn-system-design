@@ -30,8 +30,8 @@
 3.  :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
 4. :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 ### Mock Interview
-- [Видео пробных собеседований от karpov.courses](https://www.youtube.com/watch?v=Ow88hoEnsq8&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
-- [pramp.com - для самостоятельной практики](https://www.pramp.com/#/)
+- :tv: [Видео пробных собеседований от karpov.courses](https://www.youtube.com/watch?v=Ow88hoEnsq8&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
+- :link:[pramp.com - для самостоятельной практики](https://www.pramp.com/#/)
 ### Practice
 - [Architectural Katas](https://www.architecturalkatas.com/)
 - [Architectural Katas by Neal Ford](https://nealford.com/katas/)
