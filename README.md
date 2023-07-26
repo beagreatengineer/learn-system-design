@@ -28,7 +28,7 @@
 1. :link:  [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 2.  :octocat: [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 3.  :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
-4. [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+4. :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 ### Mock Interview
 - [pramp.com](https://www.pramp.com/#/)
 ### Practice
