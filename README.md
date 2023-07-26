@@ -22,9 +22,10 @@
 - [Architecture Katas](https://www.architecturalkatas.com/)
 - [Architectural Katas by Neal Ford](https://nealford.com/katas/)
 ## Интервью
-## Шпаргалки для прохождения интервью
+## Шпаргалки для прохождения интервью - MUST HAVE
 - [#1 (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [#2 (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+- [System Design Ultimate Guide](system-design-guide.jpeg)
 ## Статьи 
 - [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
 - [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
