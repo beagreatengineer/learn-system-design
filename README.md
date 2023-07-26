@@ -2,14 +2,16 @@
 
 На первый взгляд может показаться что это слишком короткий гайд, но на самом деле каждая ссылка, особенно на Github репозитории раскрывается в огромное количество информации, поэтому будьте осторожны :)
 
-**Содержание**
-* [System Design Fundamentals](#system-design-fundamentals---start-here)
-* [All you need to know about interview](#all-you-need-to-know-about-interview)
-  + [Cheatsheets](#cheatsheets)
-  + [Articles about interview process](#articles-about-interview-process)
-  + [Mock Interview](#mock-interview)
-  + [Practice](#practice)
-* [Advanced System Design](#advanced-system-design)
+## Содержание
+- [System Design Fundamentals](#system-design-fundamentals)
+- [All you need to know about interview](#all-you-need-to-know-about-interview)
+  * [What is System Design Interview?](#what-is-system-design-interview-)
+  * [Cheatsheets](#cheatsheets)
+  * [Mock Interview](#mock-interview)
+  * [Practice](#practice)
+- [Advanced System Design](#advanced-system-design)
+
+  
 ## System Design Fundamentals
 В начале пути я использовал 3 репозитория, они здорово помогли мне освежить знания, систематизировать то что уже было и погрузиться в предметную область
 -  :octocat: [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
