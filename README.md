@@ -3,9 +3,10 @@
 На первый взгляд может показаться что это слишком короткий гайд, но на самом деле каждая ссылка, особенно на Github репозитории раскрывается в огромное количество информации, поэтому будьте осторожны :)
 
 ## Содержание
+
 - [System Design Fundamentals](#system-design-fundamentals)
 - [All you need to know about interview](#all-you-need-to-know-about-interview)
-  * [What is System Design Interview?](#what-is-system-design-interview-)
+  * [What is System Design Interview?](#what-is-system-design-interview)
   * [Cheatsheets](#cheatsheets)
   * [Mock Interview](#mock-interview)
   * [Practice](#practice)
