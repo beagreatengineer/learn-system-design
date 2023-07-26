@@ -1,19 +1,11 @@
 Данный репозиторий - лучшее из того что мне удалось найти на просторах сети в процессе изучения System Design и подготовки к одноименному интервью. Все эти ресурсы были невероятно полезны для меня, надеюсь что-то пригодится и вам. Контент разбит на 3 больших категории чтобы человек любого уровня подготовки мог найти именно то что  нужно.
-* [System Design Fundamentals](#system-design-fundamentals---start-here)
-* [All you need to know about interview](#all-you-need-to-know-about-interview)
-  + [Cheatsheets](#cheatsheets)
-  + [Articles about interview process](#articles-about-interview-process)
-  + [Mock Interview](#mock-interview)
-  + [Practice](#practice)
-* [Advanced System Design](#advanced-system-design)
-## System Design Fundamentals
-Предложенные 3 репозитория помогут покрыть 90% теории которая может потребоваться на интервью и в работе, поэтому рекомендую начать именно с них:
-- [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
-](https://github.com/donnemartin/system-design-primer)
-- [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
-- [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
-
-
+- [System Design Fundamentals](#system-design-fundamentals)
+- [All you need to know about interview](#all-you-need-to-know-about-interview)
+  * [What is System Design Interview?](#what-is-system-design-interview-)
+  * [Cheatsheets](#cheatsheets)
+  * [Mock Interview](#mock-interview)
+  * [Practice](#practice)
+- [Whats Next? (Advanced System Design)](#advanced-system-design)
 Закрепить знания помогут [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo
 ## All you need to know about interview
 ### What is System Design Interview?
