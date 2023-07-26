@@ -1,14 +1,12 @@
 # Learn System Design and prepare for interview
 * [System Design Fundamentals - Start Here](#system-design-fundamentals---start-here)
-* [Interview](#interview)
+* [All you need to know about interview](#all-you-need-to-know-about-interview)
   + [Cheatsheets](#cheatsheets)
   + [Articles about interview process](#articles-about-interview-process)
   + [Mock Interview](#mock-interview)
   + [Practice](#practice)
 * [Advanced System Design](#advanced-system-design)
   + [💰Courses](#--courses)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
 
 ## System Design Fundamentals - Start Here
 Предложенные 3 репозитория помогут покрыть 80% теории которая может потребоваться на интервью, поэтому рекомендую начать именно с них:
@@ -20,7 +18,7 @@
 
 
 Закрепить знания помогут [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo
-## Interview
+## All you need to know about interview
 ### Cheatsheets
 Обязательно распечатать и держать перед собой на интервью 
 1. [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
