@@ -18,7 +18,7 @@
 ## Interview
 ### Cheatsheets
 1. [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
-2. [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)3
+2. [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 3. [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
 ### Articles about interview process 
 - [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
