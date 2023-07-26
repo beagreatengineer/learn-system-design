@@ -6,10 +6,7 @@
 - [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 - [A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
-- https://github.com/karanpratapsingh/system-design
-- https://github.com/jguamie/system-design
-- https://github.com/mixu/distsysbook
-
+- [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 ## Сheatsheet
 - [#1](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 - [#2](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
