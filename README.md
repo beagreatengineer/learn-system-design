@@ -1,13 +1,13 @@
 # Learn System Design and prepare for interview
-Данный репозиторий - лучшее из того что мне удалось найти на просторах сети в процессе изучения System Design и подготовки к одноименному интервью. Все эти ресурсы были невероятно полезны для меня, ещё большее
-* [System Design Fundamentals - Start Here](#system-design-fundamentals---start-here)
+Данный репозиторий - лучшее из того что мне удалось найти на просторах сети в процессе изучения System Design и подготовки к одноименному интервью. Все эти ресурсы были невероятно полезны для меня.
+* [System Design Fundamentals](#system-design-fundamentals---start-here)
 * [All you need to know about interview](#all-you-need-to-know-about-interview)
   + [Cheatsheets](#cheatsheets)
   + [Articles about interview process](#articles-about-interview-process)
   + [Mock Interview](#mock-interview)
   + [Practice](#practice)
 * [Advanced System Design](#advanced-system-design)
-## System Design Fundamentals - Start Here
+## System Design Fundamentals
 Предложенные 3 репозитория помогут покрыть 80% теории которая может потребоваться на интервью, поэтому рекомендую начать именно с них:
 - [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 ](https://github.com/donnemartin/system-design-primer)
