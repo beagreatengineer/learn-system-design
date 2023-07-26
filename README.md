@@ -23,7 +23,7 @@
 2. [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 3. [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
 4. [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
-### Articles about interview process
+### EXPLAIN interview process
 Чтобы понять, что ожидается на настоящем интервью
 - [Как подготовиться и пройти System Design Interview](https://tellmeabout.tech/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
