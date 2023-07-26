@@ -1,4 +1,15 @@
 # Learn System Design and prepare for interview
+* [System Design Fundamentals - Start Here](#system-design-fundamentals---start-here)
+* [Interview](#interview)
+  + [Cheatsheets](#cheatsheets)
+  + [Articles about interview process](#articles-about-interview-process)
+  + [Mock Interview](#mock-interview)
+  + [Practice](#practice)
+* [Advanced System Design](#advanced-system-design)
+* [Additional resources](#additional-resources)
+  + [Youtube](#youtube)
+  + [Courses](#courses)
+  + [Blogs](#blogs)
 ## System Design Fundamentals - Start Here
 - [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 ](https://github.com/donnemartin/system-design-primer)
@@ -14,7 +25,7 @@
 - [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
-### Пробные собеседования
+### Mock Interview
 - [pramp.com](https://www.pramp.com/#/)
 ### Practice
 - [Architecture Katas](https://www.architecturalkatas.com/)
