@@ -2,7 +2,7 @@
 
 На первый взгляд может показаться что это слишком короткий гайд, но на самом деле каждая ссылка, особенно на Github репозитории раскрывается в огромное количество информации, поэтому будьте осторожны :)
 
-
+**Содержание**
 * [System Design Fundamentals](#system-design-fundamentals---start-here)
 * [All you need to know about interview](#all-you-need-to-know-about-interview)
   + [Cheatsheets](#cheatsheets)
