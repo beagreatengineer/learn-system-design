@@ -6,10 +6,14 @@
 - [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 - [A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)
 - [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
-- https://gist.github.com/vasanthk/485d1c25737e8e72759f
 - https://github.com/karanpratapsingh/system-design
 - https://github.com/jguamie/system-design
 - https://github.com/mixu/distsysbook
+
+## Сheatsheet
+- [#1](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
+- [#2](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+- [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
 ## Youtube
 - [System design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
 - [SystemDesignInterview Youtube channel](https://www.youtube.com/c/SystemDesignInterview)
@@ -19,7 +23,7 @@
 - [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - [Grokking the Principles and Practices of Advanced System Design](https://www.educative.io/courses/grokking-the-principles-and-practices-of-advanced-system-design)
 ## Articles
-- https://leetcode.com/discuss/career/229177/My-System-Design-Template
+- 
 - **[ByteByteGo System Design](https://blog.bytebytego.com/archive)** + [Big PDF](https://bytebyte-go.s3.amazonaws.com/ByteByteGo_LinkedIn_PDF.pdf)
 - [Обработка распределенных транзакций в микросервисной архитектуре](https://habr.com/ru/company/piter/blog/522366/)
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
