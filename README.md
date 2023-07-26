@@ -21,7 +21,6 @@
 - [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
 - [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
-- [Hacking the Software Engineer Interview](https://tianpan.co/hacking-the-software-engineer-interview)
 ### Cheatsheets
 Обязательно распечатать и держать перед собой на интервью 
 1. [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
@@ -34,8 +33,8 @@
 - [Architectural Katas](https://www.architecturalkatas.com/)
 - [Architectural Katas by Neal Ford](https://nealford.com/katas/)
 ## Advanced System Design
-- **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
-- **[A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)**
-- [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
-- [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-- **[High Scalability Blog](http://highscalability.com/)**
+- :octocat: **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
+- :octocat: **[A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)**
+- :octocat: [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
+- :tv: [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+- :link: **[High Scalability Blog](http://highscalability.com/)**
