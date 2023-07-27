@@ -29,13 +29,14 @@
 Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo.
 ## All you need to know about interview
 ### What is System Design Interview?
-Прохождение интервью - отдельная история, так как нужно не только знать теорию а уметь её применять, коммуницировать с собеседником и держать темп чтобы уложиться во временные рамки, понять что требуется от человека на собесе помогут статьи:
+Прохождение интервью - отдельная история, так как нужно не только знать теорию а уметь её применять, коммуницировать с собеседником и держать темп чтобы уложиться во временные рамки. 
+Понять что требуется от человека на собесе и как максимизировать свои шансы помогут статьи:
 - :link: [Как подготовиться и пройти System Design Interview](https://tellmeabout.tech/how-to-prepare-for-and-pass-the-system-design-interview-78b820589e8)
 - :link: [Как проходят архитектурные секции собеседования в Яндексе: практика дизайна распределённых систем](https://habr.com/ru/company/yandex/blog/564132/)
 - :link: [Проходим L6 интервью на System Design в FAANG](https://habr.com/ru/post/655663/)
 - :octocat: [Preparing for the Google System Design Interview](https://github.com/jguamie/system-design)
 ### Cheatsheets
-Обязательно распечатать и держать перед собой на интервью, это важно!
+Шпаргалки здорово помогают во время интервью придерживать плана, защищают от забывчивости, поэтому рекомендую распечатать и держать перед собой на интервью, это важно!
 1. :link:  [My System Design Template (LeetCode)](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 2.  :octocat: [System Design Cheatsheet (Github gist)](https://gist.github.com/vasanthk/485d1c25737e8e72759f)
 3.  :octocat: [System Design Ultimate Guide (Image)](system-design-guide.jpeg)
