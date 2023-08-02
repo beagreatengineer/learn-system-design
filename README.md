@@ -24,7 +24,7 @@
 ](https://github.com/donnemartin/system-design-primer)
 -  :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 -  :octocat: [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
-
+-  :link: [The complete guide to System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
 
 Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo.
 ## All you need to know about interview
@@ -43,6 +43,7 @@
 4. :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 ### Mock Interview
 - :tv: [Видео пробных собеседований от karpov.courses](https://www.youtube.com/watch?v=Ow88hoEnsq8&list=PLBRXq5LaddfzDBjg6soIwJJA2klXXs6ni)
+- :tv: [Интервью по System Design. Александр Поломодов (Тинькофф)](https://www.youtube.com/watch?v=Wh5Ya6UFG1k)
 - :link:[pramp.com - для самостоятельной практики](https://www.pramp.com/#/)
 ### Practice
 - [Architectural Katas](https://www.architecturalkatas.com/)
