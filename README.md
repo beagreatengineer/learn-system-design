@@ -55,3 +55,4 @@ System Design довольно обширная тема, изучать её м
 - :octocat: [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
 - :tv: [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
 - :link: **[High Scalability Blog](http://highscalability.com/)**
+- :link: [jepsen.io - Distributed Systems Safety Research](https://jepsen.io/)
