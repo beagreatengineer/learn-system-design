@@ -25,8 +25,9 @@
 -  :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 -  :octocat: [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
 -  :link: [The complete guide to System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
+-  :link: [Architecture Notes](https://architecturenotes.co/)
 
-Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo.
+Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo. 
 ## All you need to know about interview
 ### What is System Design Interview?
 Прохождение интервью - отдельная история, так как нужно не только знать теорию а уметь её применять, коммуницировать с собеседником и держать темп чтобы уложиться во временные рамки. 
