@@ -52,7 +52,7 @@
 ## Advanced System Design
 System Design довольно обширная тема, изучать её можно бесконечно, поэтому если вы прочитали ресурсы выше и вам этого мало то ныряйте глубже :)
 - :octocat: **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
-- :octocat: **[https://github.com/InterviewReady/system-design-resources](https://github.com/InterviewReady/system-design-resources)**
+- :octocat: **[These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)**
 - :octocat: **[A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)**
 - :octocat: [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
 - :tv: [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
