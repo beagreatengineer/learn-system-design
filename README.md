@@ -23,7 +23,9 @@
 -  :octocat: [Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.
 ](https://github.com/donnemartin/system-design-primer)
 -  :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
--  :octocat: [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
+-  :octocat: [Learn System Design step by step](https://github.com/bregman-arie/system-design-notebook)
+
+Статьи:
 -  :link: [The complete guide to System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
 -  :link: [Architecture Notes](https://architecturenotes.co/)
 
@@ -54,7 +56,9 @@ System Design довольно обширная тема, изучать её м
 - :octocat: **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
 - :octocat: **[These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)**
 - :octocat: **[A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)**
+- :octocat: [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
 - :octocat: [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
 - :tv: [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
+
 - :link: **[High Scalability Blog](http://highscalability.com/)**
 - :link: [jepsen.io - Distributed Systems Safety Research](https://jepsen.io/)
