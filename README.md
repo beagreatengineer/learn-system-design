@@ -56,6 +56,7 @@ System Design довольно обширная тема, изучать её м
 - :octocat: **[The Patterns of Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)**
 - :octocat: **[These are the best resources for System Design on the Internet](https://github.com/InterviewReady/system-design-resources)**
 - :octocat: **[A curated list to learn about distributed systems](https://github.com/theanalyst/awesome-distributed-systems)**
+- :octocat: **[This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems](https://github.com/ashishps1/awesome-system-design-resources)**
 - :octocat: [Roadmap to becoming a system design and architecture master](https://github.com/mohsenshafiei/system-design-master-plan)
 - :octocat: [Advanced data structure and algorithm for system design](https://github.com/resumejob/system-design-algorithms)
 - :tv: [Distributed Systems lecture series by Martin Kleppmann](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
