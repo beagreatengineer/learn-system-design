@@ -24,7 +24,7 @@
 ](https://github.com/donnemartin/system-design-primer)
 -  :octocat: [Learn how to design systems at scale and prepare for system design interviews](https://github.com/karanpratapsingh/system-design)
 -  :octocat: [Learn System Design step by step](https://github.com/bregman-arie/system-design-notebook)
-
+-  :link: [Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
 Статьи:
 -  :link: [The complete guide to System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
 -  :link: [Architecture Notes](https://architecturenotes.co/)
