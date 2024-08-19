@@ -31,7 +31,7 @@
 -  :link: [The complete guide to System Design in 2023](https://www.educative.io/blog/complete-guide-to-system-design)
 -  :link: [Architecture Notes](https://architecturenotes.co/)
 
-Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) от ByteByteGo. 
+Закрепить знания помогают красивые [cтатьи](https://blog.bytebytego.com/archive) и [видео](https://www.youtube.com/channel/UCZgt6AzoyjslHTC9dz0UoTw) и [Github](https://github.com/ByteByteGoHq/system-design-101) ByteByteGo. Также отмечу ресурс [System Design Newsletter](https://newsletter.systemdesign.one/) 
 ## All you need to know about interview
 ### What is System Design Interview?
 Прохождение интервью - отдельная история, так как нужно не только знать теорию а уметь её применять, коммуницировать с собеседником и держать темп чтобы уложиться во временные рамки. 
